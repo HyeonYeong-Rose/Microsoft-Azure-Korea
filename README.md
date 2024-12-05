@@ -91,7 +91,7 @@
 1. 아래와 같이 사용합니다.
     
     ```markdown
-    [![비디오 설명](http://img.youtube.com/vi/{동영상 HASH}/0.jpg)](https://youtu.be/{동영상 HASH})
+    [![비디오 설명](https://img.youtube.com/vi/{동영상 HASH}/0.jpg)](https://youtu.be/{동영상 HASH})
     ```
     
 
